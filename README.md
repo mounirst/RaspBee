@@ -13,3 +13,5 @@ https://docs.snips.ai/getting-started/quick-start-raspberry-pi
 
 
 
+https://forum.snips.ai/t/voice-controlled-lights-with-a-raspberry-pi-and-snips/207
+
