@@ -2,9 +2,9 @@
 
 ## Requirements
 
-Rpi0W
-PS3 eye
-256Gb USB storage
+- Rpi0W
+- PS3 eye
+- 256Gb USB storage
 
 ## Installation
 
